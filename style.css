@@ -1,0 +1,49 @@
+.title{
+  color: orange;
+  font-family: serif;
+  font-size: 25px;
+  border-bottom: 1px solid black;
+}
+
+.huruf{
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.teks{
+  font-size: 18px;
+  font-family: georgia;
+}
+
+.tahun{
+  font-size: 14px;
+  font-family: Arial;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.icon-foto{
+  width: 300px;
+  height: 300px;
+}
+
+.icon-ig{
+  width: 100px;
+  height: 100px;
+}
+
+.icon-skill{
+  width: 160px;
+  height: 100px;
+}
+
+.icon-contact{
+  width: 30px;
+  height: 30px;
+}
+
+.kelas-about{
+  margin: 0px;
+}
+
